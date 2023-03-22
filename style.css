@@ -9,7 +9,7 @@ body {}
 .mainbox {}
 
 .header {
-    background-image: url("/assets/about me/aboutme_background.jpeg");
+    background-image: url("assets/about me/aboutme_background.jpeg");
     background-size: cover;
 }
 
